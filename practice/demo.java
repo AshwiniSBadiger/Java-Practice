@@ -1,8 +1,13 @@
 package practice;
 
 public class demo {
-    syso 
-        
-        println updated xyz a
-    efg
-}
+    syso
+
+    println
+    updated xyz a
+
+    }
+
+    
+
+    
