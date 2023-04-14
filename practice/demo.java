@@ -1,6 +1,8 @@
 package practice;
 
 public class demo {
-    syso
+    syso 
+        
+        println updated xyz a
     
 }
